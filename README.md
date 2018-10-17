@@ -13,5 +13,5 @@ Clone or Download Guided Project_ Analyzing NYC High School Data.tar to get ever
 
 Example 2:
 
-Clone or Download  to get everything at once!!
+Clone or Download Guided Project_ Star Wars Survey.tar to get everything at once!!
 
